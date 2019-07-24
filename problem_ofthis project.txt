@@ -1,0 +1,165 @@
+1 and 2 ka document kasa banata ha sir na bola tha checkout ka ma
+/////////////////////////////////////////////////////////////////////
+ek data base ma order table bana gi 
+=20000-10000
+
+
+
+<?php //ob_start();?> navbar ma laga rakha ha hata ka sir se puchna  ha kya kaam karta ha
+/**************/
+
+restapi in php  @laxman (ho gaya ya)
+
+ajax se form  sumbit karna
+
+
+jquery topic
+///
+slider    @ 
+spinner    @
+hide
+position    @ dynamic help of jquery using css
+widget factory  @  on click and toggle
+progress bar with php @ ho gya
+plugins
+
+
+
+
+admin ma add to product karna ma subcategory ma phala second select karka first ma jata ha tab brand a raha ha other wise nahi
+
+
+/****************************************************/
+
+related product fetch
+
+problem 
+
+ABHI TO HUM MOBILE FETCH KAR RAHA ha
+
+agar hum cloths fetch kara ga to usma size ka option kasa add kara ga
+
+agar card empty ho to total price ka icon hat jaya 
+or usma warning a rahi ha wo kasa hata gi
+
+
+navbar include kar na pa error a raha ha 
+
+line no 73 and 74 ko comment karna pa output a raha and navbar include karna pa 
+other wise
+Warning: Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\laxman 19\private folder\laxman\ecomarce\new poject by laxman2\public\navbar.php:1) in D:\xampp\htdocs\laxman 19\private folder\laxman\ecomarce\new poject by laxman2\public\addtocart.php on line 73
+ya show ho raha
+
+/****************************/
+
+agar hum navbar ko include karta ha to add to cart nahi ho raha
+
+
+
+/****************************prikant**/////////////////////////////////
+coustomer-login
+
+my account.php
+
+/*********************/
+
+agar hum kisi website pa visit karta ha 
+or uspa visit karna ka baad  brower band kardeta ha to yasa rank badti ha
+
+agar back kar di to yasa nahi hota
+
+/******************************************************************/
+related product fetch
+
+select* from table this category  not this product (make a query)
+
+
+//////////////////
+problem 
+
+ABHI TO HUM MOBILE FETCH KAR RAHA ha
+
+agar hum cloths fetch kara ga to usma size ka option kasa add kara ga
+ 
+ <!---------------///////////////////////---------------------------->
+ 
+https://www.youtube.com/watch?v=dMSgHDmHMXw&list=PLcpOJn8eztQHLQ_D9-BE1XlBt_glPpT_X
+https://music.youtube.com/watch?v=31ii2DHAkG0&list=RDMMnCD2hj6zJEc
+https://www.youtube.com/watch?v=AzroLr1XS5E&list=PLpCXh2_p_GyE1VLYoIT9N1lu-XDSxwxon
+ <!---------------///////////////////////---------------------------->
+ class ImgResizer {
+
+function ImgResizer($originalFile = '$newName') {
+    $this -> originalFile = $originalFile;
+}
+function resize($newWidth, $targetFile) {
+    if (empty($newWidth) || empty($targetFile)) {
+        return false;
+    }
+    $src = imagecreatefromjpeg($this -> originalFile);
+    list($width, $height) = getimagesize($this -> originalFile);
+    $newHeight = ($height / $width) * $newWidth;
+    $tmp = imagecreatetruecolor($newWidth, $newHeight);
+    imagecopyresampled($tmp, $src, 0, 0, 0, 0, $newWidth, $newHeight, $width, $height);
+
+    if (file_exists($targetFile)) {
+        unlink($targetFile);
+    }
+    imagejpeg($tmp, $targetFile, 95);
+}
+
+}
+
+ <!---------------///////////////////////---------------------------->
+ 
+ @media(max-width:600px ){
+
+
+
+}
+/********************************/
+2850  6 subj
+hindi english
+painting 
+histroy
+data entry 'polscience
+
+
+2850+1000 uper
+
+
+3200 de raka ha usna
+baki pending ha
+
+https://www.shiksha.com/college/gniot-greater-noida-institute-of-technology-32439
+htaccess  /***/ localhost
+/**********************/
+bootstrap 5
+
+php latest version reading
+
+
+/**************shubham paytm id***********************/
+7210611129
+shubham@123
+979257
+/*************************************/
+Devraj82625774@
+
+Honeypanj
+/********************************************/
+name
+cno
+pincode    110041
+locality   uttam nagr
+shipping address   home
+shipping landmark
+state
+city  delhi
+
+
+Landmarkhome
+
+https://www.uwatchfree.sx/2019/02/k-g-f-chapter-1-2018-full-movie/
+
+
