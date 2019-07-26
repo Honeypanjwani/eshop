@@ -14,9 +14,7 @@ $obj_c=new Controller($obj_m);
 	  <?php $slider=$obj_m->fetch_all("slider");
 	    // print_r($slider);
 		 if($slider !=null){
-			 foreach($slider as $sliders){
-				 
-				 
+			 foreach($slider as $sliders){		 
 	  ?>
         <div class="item">
           <div class="banner-1"> <img src="<?php echo $sliders->path;?>" alt="Stylexpo">
@@ -37,27 +35,7 @@ $obj_c=new Controller($obj_m);
             </div>
           </div>
         </div>
-				<?php  } } ?>
-        <!--<div class="item">
-          <div class="banner-2"> <img src="images/banner2.jpg" alt="Stylexpo">
-            <div class="banner-detail">
-              <div class="container">
-                <div class="row">
-                  <div class="col-8">
-                    <div class="banner-detail-inner"> 
-                      <span class="slogan">new look</span>
-                      <h1 class="banner-title">Smart Watches For<br><span> Men & Women</span></h1>
-                      <span class="offer">Most Popular Brand Products 20% off</span> 
-                    </div> 
-                      <a class="btn btn-color" href="shop.html">Shop Now!</a>
-                  </div>
-                  <div class="col-4"></div>              
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>-->
-        
+				<?php  } } ?>   
       </div>
     </div>
   </section>
